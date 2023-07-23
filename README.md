@@ -1,1 +1,1 @@
-# read_txt
+读txt文件，且分割string数据
